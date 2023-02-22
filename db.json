@@ -9,6 +9,11 @@
       "id": 2,
       "title": "More!",
       "message": "This is Record 2 for Stay Demo"
+    },
+    {
+      "id": 3,
+      "title": "Added:",
+      "message": "Another record added for Stay Demo"
     }
 
   ],
