@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "message": "Test Data for Stay Demo"
+      "title": "Hello!",
+      "message": "This is Test Data for Stay Demo"
     }
   ],
   "profile": {
